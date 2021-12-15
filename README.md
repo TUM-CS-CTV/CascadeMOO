@@ -3,11 +3,13 @@ A multi-objective optimization approach for the design of enzymatic cascade reac
 Simulation and optimization codes are provided.
 
 ## Setup
-Install Anaconda on your PC
-https://www.anaconda.com/products/individual
-Open the Power shell prompt in anaconda navigator and run the following commands: 
+Install [Anaconda](https://www.anaconda.com/products/individual) on your PC.
+Open the Power shell prompt in anaconda navigator and run the following commands:
+ 
 `conda install -c conda-forge pyomo`
+
 `conda install -c conda-forge glpk`
+
 `conda install -c conda-forge ipopt 3.11.1 `
 
 ## Run the code
