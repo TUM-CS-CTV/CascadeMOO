@@ -30,7 +30,5 @@ k_La to make different sets of Pareto-optimal solutions.
 When using this work, please cite our paper:
 
 [1] Design of enzymatic cascade reactors through multi-objective dynamic optimization.
-
-Leandros Paschalidis, Barbara Beer, Samuel Sutiono, Volker Sieber, Jakob Burger
-
+Leandros Paschalidis, Barbara Beer, Samuel Sutiono, Volker Sieber, Jakob Burger.
 Submited to the Biochemical Engineering Journal 
