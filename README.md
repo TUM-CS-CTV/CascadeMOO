@@ -1,3 +1,4 @@
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/Pyomo/pyomo.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Pyomo/pyomo/alerts/)
 # CascadeMOO
 A multi-objective optimization approach for the design of enzymatic cascade reactors. 
 Simulation and optimization codes are provided.
