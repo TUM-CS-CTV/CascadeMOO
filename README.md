@@ -3,7 +3,7 @@ A multi-objective optimization approach for the design of enzymatic cascade reac
 Simulation and optimization codes are provided.
 
 ## Setup
-Install [Anaconda](https://www.anaconda.com/products/individual) on your PC.
+Install [Anaconda](https://www.anaconda.com/products/individual) in your PC.
 Pyomo, GLPK and IPOPT 3.11.1 are required to run the optimization codes. Open the 
 Powershell Prompt in anaconda navigator and run the following commands:
  
@@ -18,7 +18,7 @@ You can use the simulation code to reproduce all results in our paper. You can f
 the numerical values of the results in Tables 5-12 in the supplementary material of
 our paper. Save the simulation code in your pc. Open it with Spyder. Substitute the
 values of the control variables for the process schedule you wish to simulate and 
-hit Run. 
+hit 'Run'. 
 
 ## Run the optimization codes
 You can use the the optimization codes to produce all optimization results in our
@@ -30,5 +30,7 @@ k_La to make different sets of Pareto-optimal solutions.
 When using this work, please cite our paper:
 
 [1] Design of enzymatic cascade reactors through multi-objective dynamic optimization.
+
 Leandros Paschalidis, Barbara Beer, Samuel Sutiono, Volker Sieber, Jakob Burger
+
 Submited to the Biochemical Engineering Journal 
