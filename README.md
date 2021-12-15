@@ -16,9 +16,8 @@ following commands in the Powershell Prompt of anaconda navigator:
 ## Run the simulation code
 You can use the simulation code (Simulation_CascadeMOO.py) to reproduce all results in our paper. You can find 
 the numerical values of the results in Tables 5-12 in the supplementary material of
-our paper. Save the simulation code in your pc. Open it with Spyder. Substitute the
-values of the control variables (*t*<sub>f</sub>, *E*<sup>UDH</sup>, *E*<sup>GlucD</sup>, *E*<sup>KdgD</sup>, *E*<sup>KgsalDH</sup>, *E*<sup>NOX</sup>, *A*<sub>1</sub>, *A*<sub>2</sub>, *A*<sub>3</sub>, *t*<sub>1</sub>, *t*<sub>2</sub>, *t*<sub>3</sub>) and for the volumetric oxygen mass transfer coefficient (*k*<sub>L</sub>*a*) for the process schedule you wish to simulate and 
-hit 'Run'. 
+our paper. Save the simulation code in your pc. Open it with Spyder and run it. You can vary the
+values of the control variables (*t*<sub>f</sub>, *E*<sup>UDH</sup>, *E*<sup>GlucD</sup>, *E*<sup>KdgD</sup>, *E*<sup>KgsalDH</sup>, *E*<sup>NOX</sup>, *A*<sub>1</sub>, *A*<sub>2</sub>, *A*<sub>3</sub>, *t*<sub>1</sub>, *t*<sub>2</sub>, *t*<sub>3</sub>) and of the volumetric oxygen mass transfer coefficient (*k*<sub>L</sub>*a*) to simulate different process schedules. 
 
 ## Run the optimization codes
 You can use the the optimization codes (Optimization1_CascadeMOO.py & Optimization2_CascadeMOO.py) to produce all optimization results in our
