@@ -17,7 +17,7 @@ Powershell Prompt in anaconda navigator and run the following commands:
 You can use the simulation code to reproduce all results in our paper. You can find 
 the numerical values of the results in Tables 5-12 in the supplementary material of
 our paper. Save the simulation code in your pc. Open it with Spyder. Substitute the
-values of the control variables (*t*<sub>f</sub>, *E*<sup>UDH</sup>, *E*<sup>GlucD</sup>, *E*<sup>KdgD</sup>, *E*<sup>KgsalDH</sup>, *E*<sup>NOX</sup>, *A*<sub>1</sub>, *A*<sub>2</sub>, *A*<sub>3</sub>, *t*<sub>1</sub>, *t*<sub>2</sub>, *t*<sub>3</sub>) and for the volumetric mass transfer coefficient (*k*<sub>L</sub>*a*) for the process schedule you wish to simulate and 
+values of the control variables (*t*<sub>f</sub>, *E*<sup>UDH</sup>, *E*<sup>GlucD</sup>, *E*<sup>KdgD</sup>, *E*<sup>KgsalDH</sup>, *E*<sup>NOX</sup>, *A*<sub>1</sub>, *A*<sub>2</sub>, *A*<sub>3</sub>, *t*<sub>1</sub>, *t*<sub>2</sub>, *t*<sub>3</sub>) and for the volumetric oxygen mass transfer coefficient (*k*<sub>L</sub>*a*) for the process schedule you wish to simulate and 
 hit 'Run'. 
 
 ## Run the optimization codes
