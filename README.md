@@ -4,8 +4,8 @@ Simulation and optimization codes are provided.
 
 ## Setup
 Install [Anaconda](https://www.anaconda.com/products/individual) on your PC.
-Pyomo, glpk and IPOPT 3.11.1 are required to run the optimization codes. Open the 
-Power shell prompt in anaconda navigator and run the following commands:
+Pyomo, GLPK and IPOPT 3.11.1 are required to run the optimization codes. Open the 
+Powershell Prompt in anaconda navigator and run the following commands:
  
 `conda install -c conda-forge pyomo`
 
@@ -14,15 +14,17 @@ Power shell prompt in anaconda navigator and run the following commands:
 `conda install -c conda-forge ipopt 3.11.1 `
 
 ## Run the simulation code
-You can use this code to simulate the results of our paper. You can find the results 
-in Tables 5-12 in the supplementary material of our paper. Save the simulation code i
-n your pc. Open it with spyder. Substitute the values of the control variables for 
-the process schedule you wish to simulate. 
+You can use the simulation code to reproduce all results in our paper. You can find 
+the numerical values of the results in Tables 5-12 in the supplementary material of
+our paper. Save the simulation code in your pc. Open it with Spyder. Substitute the
+values of the control variables for the process schedule you wish to simulate and 
+hit Run. 
 
 ## Run the optimization codes
-Save both files in the same directory. To run the optimization codes open both
-files in spyder and run the xx file. You can produce all optimization results in our
-paper and more by varying the values of the parameters: Φ^EC, Φ^CC and k_La.
+You can use the the optimization code to produce all optimization results in our
+paper and more. Save both files in the same directory. To run the optimization codes 
+open both files in Spyder and run the xx file. You can vary the values of the following 
+parameters: Φ^EC, Φ^CC and k_La to make different sets of Pareto-optimal solutions. 
 
 ## Publications
 When using this work, please cite our paper:
