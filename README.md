@@ -23,7 +23,7 @@ values of the control variables (*t*<sub>f</sub>, *E*<sup>UDH</sup>, *E*<sup>Glu
 You can use the the optimization codes (Optimization1_CascadeMOO.py & Optimization2_CascadeMOO.py) to produce all optimization results in our
 paper and more. Save both files in the same directory. Open both files in Spyder and 
 run the Optimization1_CascadeMOO.py file. You can vary the values of the following parameters: *Φ*<sup>EC</sup>, *Φ*<sup>CC</sup> and 
-*k*<sub>L</sub>*a* to make different sets of Pareto-optimal solutions. 
+*k*<sub>L</sub>*a* to produce different sets of Pareto-optimal solutions. 
 
 ## Publications
 When using this work, please cite our paper:
