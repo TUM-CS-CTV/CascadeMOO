@@ -23,8 +23,8 @@ hit 'Run'.
 ## Run the optimization codes
 You can use the the optimization codes to produce all optimization results in our
 paper and more. Save both files in the same directory. Open both files in Spyder and 
-run the xx file. You can vary the values of the following parameters: Φ<sup>EC</sup>, Φ<sup>CC</sup> and 
-k<sub>L</sub>a to make different sets of Pareto-optimal solutions. 
+run the xx file. You can vary the values of the following parameters: *Φ*<sup>EC</sup>, *Φ*<sup>CC</sup> and 
+*k*<sub>L</sub>*a* to make different sets of Pareto-optimal solutions. 
 
 ## Publications
 When using this work, please cite our paper:
