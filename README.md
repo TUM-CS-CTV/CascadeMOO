@@ -4,8 +4,8 @@ Simulation and optimization codes are provided.
 
 ## Setup
 Install [Anaconda](https://www.anaconda.com/products/individual) in your PC.
-PYOMO, GLPK and IPOPT 3.11.1 are required to run the optimization codes. Open the 
-Powershell Prompt in anaconda navigator and run the following commands:
+PYOMO, GLPK and IPOPT 3.11.1 are required to run the optimization codes. These can be installed by running the 
+following commands in the Powershell Prompt of anaconda navigator:
  
 `conda install -c conda-forge pyomo`
 
