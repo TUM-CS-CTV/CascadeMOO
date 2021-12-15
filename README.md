@@ -1,4 +1,3 @@
-https://img.shields.io/badge/Pyomo-5.1-orange
 # CascadeMOO
 A multi-objective optimization approach for the design of enzymatic cascade reactors. 
 Simulation and optimization codes are provided.
