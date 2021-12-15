@@ -1,4 +1,3 @@
-[![Twitter](https://img.shields.io/twitter/url?color=Yellow&label=Pyomo&logoColor=Yellow&style=plastic&url=http%3A%2F%2Fwww.pyomo.org%2F)](https://twitter.com/intent/tweet?text=Wow:&url=http%3A%2F%2Fwww.pyomo.org%2F)
 # CascadeMOO
 A multi-objective optimization approach for the design of enzymatic cascade reactors. 
 Simulation and optimization codes are provided.
