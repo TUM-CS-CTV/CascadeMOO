@@ -11,7 +11,7 @@ following commands in the Powershell Prompt of anaconda navigator:
 
 `conda install -c conda-forge glpk`
 
-`conda install -c conda-forge ipopt 3.11.1 `
+`conda install -c conda-forge ipopt=3.11.1 `
 
 ## Run the simulation code
 You can use the simulation code (Simulation_CascadeMOO.py) to reproduce all results in our paper. You can find 
@@ -28,6 +28,6 @@ run the Optimization1_CascadeMOO.py file. You can vary the values of the followi
 ## Publications
 When using this work, please cite our paper:
 
-[1] Design of enzymatic cascade reactors through multi-objective dynamic optimization.
-Leandros Paschalidis, Barbara Beer, Samuel Sutiono, Volker Sieber, Jakob Burger.
-Not yet published. 
+Leandros Paschalidis, Barbara Beer, Samuel Sutiono, Volker Sieber, Jakob Burger,
+Design of enzymatic cascade reactors through multi-objective dynamic optimization,
+Biochemical Engineering Journal, 2022, 108384, ISSN 1369-703X, https://doi.org/10.1016/j.bej.2022.108384.
