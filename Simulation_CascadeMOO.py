@@ -9,7 +9,7 @@
 #
 # The paper was submited to: Biochemical Engineering Journal.
 # ----------------------------------------------------------------------------
-'''This code must be used together with Tables 5-12 in the supplementary 
+'''This code must be used together with Tables 6-13 in the supplementary 
 material of our paper. You can use this code to simulate and plot the 
 various Pareto-optimal process schedules calculated in our paper.'''  
 
@@ -54,7 +54,7 @@ kII = 0.013
 S9_Star = 1*0.2099/0.774
 
 #----------------------------------------------------------- Control variables
-'''You can find the values of the control variables in Tables 5-12 of the 
+'''You can find the values of the control variables in Tables 6-13 of the 
 supplementary material of our paper. Select the values of the control variables 
 for the plot you wish to reproduce and add them below. Hit run and the 
 corresponding process schedule will be simulated and plotted.'''  
